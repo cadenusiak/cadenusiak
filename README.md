@@ -56,3 +56,8 @@ Based in Las Vegas. When I'm not in a terminal, I'm usually playing soccer, gami
 ---
 
 *Always open to connecting — especially with folks working at the intersection of IT and AI.*
+<p align="left">
+  <a href="https://www.linkedin.com/in/caden-usiak/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
