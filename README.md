@@ -12,6 +12,9 @@ I work in enterprise IT by day and spend my off-hours building toward a career i
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,apple,windows,py,git&theme=dark" />
   </a>
+  <a href="">
+    <img src="/Users/caden/Downloads/codex-color.svg" />
+  </a>
 </p>
 
 **IT & Systems**
