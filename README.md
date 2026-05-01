@@ -8,10 +8,15 @@ I work in enterprise IT by day and spend my off-hours building toward a career i
 
 ## 🛠️ Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,windows,py,git&theme=dark" />
+  </a>
+</p>
+
 **IT & Systems**
 - Active Directory | SCCM | Zendesk | ServiceNow
-- Windows | macOS | Linux
-- Jamf Pro *(certified)* | VirtualBox
+- Windows | macOS | Linux|
 
 **Learning & Building**
 - Python | Git & GitHub
