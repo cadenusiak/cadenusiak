@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey, I'm Caden 👋
 
-<!--
-**cadenusiak/cadenusiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist at the Nevada National Security Site | Pursuing AI Engineering
 
-Here are some ideas to get you started:
+I work in enterprise IT by day and spend my off-hours building toward a career in AI Engineering. My background in systems, infrastructure, and security gives me a foundation that I'm actively extending into Python, LLMs, and AI tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**IT & Systems**
+- Active Directory | SCCM | Zendesk | ServiceNow
+- Windows | macOS | Linux
+- Jamf Pro *(certified)* | VirtualBox
+
+**Learning & Building**
+- Python | Git & GitHub
+- AI Tooling: Claude Code | ChatGPT | OpenAI Codex
+- Exploring LLMs, AI agents, and the AI Engineering roadmap
+
+---
+
+## 📜 Certifications & Education
+
+- ✅ CompTIA A+
+- ✅ Jamf Pro Certified
+- 🔄 CompTIA Security+ *(in progress)*
+- 🎓 B.S. Information Technology — University of Arizona Global Campus *(in progress)*
+
+---
+
+## 🧪 Home Lab
+
+- **Active Directory lab** — Built and configured an AD environment in VirtualBox to practice enterprise identity and GPO management hands-on
+- **Linux server administration** — Running self-hosted services on Ubuntu 24.04; hands-on experience with networking, service management, and Linux administration
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python — working through coursework and building toward AI/ML applications
+- 🤖 AI agents and LLM tooling — hands-on with Claude Code, ChatGPT, and Codex
+- ☁️ Mapping a deliberate path toward AI Engineering
+
+---
+
+## 🌵 A Little About Me
+
+Based in Las Vegas. When I'm not in a terminal, I'm usually playing soccer, gaming, or tinkering with other technology. I believe the best IT professionals are the ones who never stop being curious — that's what keeps pushing me toward AI.
+
+---
+
+*Always open to connecting — especially with folks working at the intersection of IT and AI.*
