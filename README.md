@@ -1,4 +1,3 @@
-<img width="16" height="16" alt="codex-color" src="https://github.com/user-attachments/assets/ec3f0c18-7cd8-42e6-be76-fea2da38c9ff" />
 # Hey, I'm Caden 👋
 
 IT Support Specialist at the Nevada National Security Site | Pursuing AI Engineering
@@ -11,9 +10,12 @@ I work in enterprise IT by day and spend my off-hours building toward a career i
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,windows,py,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,git&theme=dark" />
   </a>
+  <img src="https://github.com/user-attachments/assets/00e7b62e-6417-41af-bf70-7973ea879583" />
+  <img src="https://github.com/user-attachments/assets/0afed072-c8f0-40b0-a33f-300c786048d6" />
 </p>
+
 
 
 **IT & Systems**
@@ -61,5 +63,8 @@ Based in Las Vegas. When I'm not in a terminal, I'm usually playing soccer, gami
 <p align="left">
   <a href="https://www.linkedin.com/in/caden-usiak/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:cadenausiak@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
 </p>
